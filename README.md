@@ -22,3 +22,15 @@
 - git push
 ## 8. Távoli repó másolása (klónozása) a lokális repóba
 - git clone "távoli repó URL címe"
+## 9. Ágak (branches) kezelése
+> Lokális ágak listázása
+- git branch
+> Lokális és távoli ágak listázása
+- git branch -av
+> Ág létrehozása (-b és váltása)
+- git branch új_ág_neve
+- git checkout -b új_ág_neve
+> Váltás egy másik ágra
+- git checkout másik_ág_neve
+> Ág törlése (aktuális ág nem törölhető)
+- git branch -d törlendő_ág_neve
