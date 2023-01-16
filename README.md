@@ -39,3 +39,4 @@
 - git merge ág_ahonnan_áthozzuk_a változásokat
 # 10. Távoli repó változásainak letöltése a lokális gépre
 - git fetch origin
+protected?
